@@ -42,6 +42,7 @@
 
   span.lead {
     font-size: 1.5rem;
+    font-weight: 700;
     @extend %date-font;
     position: relative;
     left: 8px;
